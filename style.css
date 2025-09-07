@@ -1,0 +1,211 @@
+/* All Common Css Strat  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul ol {
+    list-style: none;
+}
+h1  h2 h3 h4 h5 h6 p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+/* All Common Css End  */
+.contaicbtn{
+    padding: 20px 30px;
+    border-radius: 28px;
+    background: #8454F5;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    color: #29313D;
+}
+/* banner Part Start  */
+#bannerpart{
+    padding-top: 270px;
+    padding-bottom: 250px;
+    background: url(../image/Header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bannertext h1{
+    font-size: 64px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #1D354F;
+}
+.bannertext p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    line-height: 200%;
+    padding-right: 150px;
+}
+/* banner Part End  */
+
+/* service Part Start  */
+#servicepart{
+    padding: 105px 0;
+}
+.commontitale h3{
+ font-size: 48px;
+ font-weight: 600;
+ font-family: "Poppins", sans-serif;
+ color: #29313D;
+ padding-bottom: 77px;
+}
+.servicetext h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+ font-size: 28px;
+ font-weight: 600;
+ font-family: "Poppins", sans-serif;
+ color: #29313D;
+}
+.servicetext p{
+ font-size: 18px;
+ font-weight: 400;
+ font-family: "Nunito", sans-serif;
+ color: #29313D;
+}
+.servicetext a{
+ font-size: 16px;
+ font-weight: 700;
+ font-family: "Nunito", sans-serif;
+ color: #29313D;
+}
+.servicetext{
+    padding: 30px 20px;
+    /* background: #00c3ff; */
+}
+/* service Part Ends   */
+
+
+/* APP Launch Part Start  */
+#appLaunchpart{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.apptext h3{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+}
+.apptext p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    line-height: 200%;
+    padding-right:200px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+.row h3{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+}
+.row p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    
+}
+.row a{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    
+}
+/* APP Launch Part End  */
+
+
+/* Over Part Start  */
+#Overpart{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+/* Over Part End  */
+
+/* Creative Part Start  */
+#Creativepart{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.creativetext h3{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+}
+.creativetext p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    padding-bottom: 70px;
+}
+
+/* Creative Part End  */
+
+/* gobal Part Stat */
+#Gobalpar{
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.text h3{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #29313D;
+}
+.col-lg-6 a{
+
+}
+/* gobal Part End  */
+
+/* pbl One Part Start  */
+.pblOneItem{
+    width: 210px;
+    padding: 40px;
+    background: #F3F7FD;
+    border-radius: 25%;
+    display: inline-block;
+    
+}
+.Tow{
+    justify-content: space-between;
+    
+}
+
+/* pbl One Part End  */
